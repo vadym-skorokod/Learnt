@@ -6,12 +6,12 @@ describe('AdminPagesComponent', () => {
   let component: AdminPagesComponent;
   let fixture: ComponentFixture<AdminPagesComponent>;
 
-  // beforeEach(async(() => {
-  //   TestBed.configureTestingModule({
-  //     declarations: [ AdminPagesComponent ]
-  //   })
-  //   .compileComponents();
-  // }));
+  beforeEach(async(() => {
+    TestBed.configureTestingModule({
+      declarations: [AdminPagesComponent]
+    })
+      .compileComponents();
+  }));
 
   beforeEach(() => {
     fixture = TestBed.createComponent(AdminPagesComponent);
