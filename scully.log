@@ -1,0 +1,272 @@
+using plugins from folder "./scully"
+using plugins from folder "./scully"
+Cleaned up ./dist/static folder.
+ ☺   new Angular build imported
+You are using "https://next.learnt.io" as server.
+      Pull in data to create additional routes.No configuration for route "/admin/tutors/:tutor" found. SkippingNo configuration for route "/admin/tutors/pending/:tutor" found. SkippingNo configuration for route "/admin/students/:id" found. Skipping****************************************************************************************
+This is a development tool for Scully applications.
+You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************traversing app for routesFinding all routes in application.
+
+
+
+
+
+
+
+
+No configuration for route "/main/import/:provider" found. SkippingNo configuration for route "/main/account/calendar/edit/:id" found. SkippingNo configuration for route "/main/account/calendar/cancel/:id" found. SkippingNo configuration for route "/start/promo/:code" found. SkippingRoute list created in files:
+  "./src/assets/scully-routes.json",
+  "/Users/luisperez/Documents/Upwork/Learnt/www/dist/static/assets/scully-routes.json",
+  "/Users/luisperez/Documents/Upwork/Learnt/www/dist/www/assets/scully-routes.json"
+No configuration for route "/main/account/calendar/details/:id" found. SkippingNo configuration for route "/main/account/calendar/details/:id/notes" found. Skipping
+
+
+
+
+
+
+Launching puppeteer with executablePath /usr/local/bin/chromium
+Route "/privacy-policy" rendered into file: "./dist/static/privacy-policy/index.html"
+Route "/tutor-payment-policy" rendered into file: "./dist/static/tutor-payment-policy/index.html"
+Route "/terms-of-use" rendered into file: "./dist/static/terms-of-use/index.html"
+Route "/cancellation-policy" rendered into file: "./dist/static/cancellation-policy/index.html"
+Route "/independent-tutor-agreement" rendered into file: "./dist/static/independent-tutor-agreement/index.html"
+Route "" rendered into file: "./dist/static/index.html"
+Route "/admin/tutors" rendered into file: "./dist/static/admin/tutors/index.html"
+Route "/admin" rendered into file: "./dist/static/admin/index.html"
+Route "/admin/settings" rendered into file: "./dist/static/admin/settings/index.html"
+Route "/admin/tutoring-sessions" rendered into file: "./dist/static/admin/tutoring-sessions/index.html"
+Route "/admin/pages" rendered into file: "./dist/static/admin/pages/index.html"
+Route "/admin/posts" rendered into file: "./dist/static/admin/posts/index.html"
+Route "/admin/footer-links" rendered into file: "./dist/static/admin/footer-links/index.html"
+Route "/admin/online" rendered into file: "./dist/static/admin/online/index.html"
+Route "/admin/reviews" rendered into file: "./dist/static/admin/reviews/index.html"
+Route "/admin/students" rendered into file: "./dist/static/admin/students/index.html"
+Route "/admin/subjects" rendered into file: "./dist/static/admin/subjects/index.html"
+Route "/admin/metrics" rendered into file: "./dist/static/admin/metrics/index.html"
+Route "/admin/credits-summary" rendered into file: "./dist/static/admin/credits-summary/index.html"
+Route "/main/tutor/5c92635bd0330e1fa6c1e9e4" rendered into file: "./dist/static/main/tutor/5c92635bd0330e1fa6c1e9e4/index.html"
+Route "/start/apply" rendered into file: "./dist/static/start/apply/index.html"
+Route "/main/tutor/5fbd93c7830f7871f124bbf7" rendered into file: "./dist/static/main/tutor/5fbd93c7830f7871f124bbf7/index.html"
+Route "/main/tutor/5fbda9ab830f787ba5307f0a" rendered into file: "./dist/static/main/tutor/5fbda9ab830f787ba5307f0a/index.html"
+Route "/main/tutor/5fbb12c5830f786316cf0a7a" rendered into file: "./dist/static/main/tutor/5fbb12c5830f786316cf0a7a/index.html"
+Route "/main/tutor/5ff79084830f7856be83b3c4" rendered into file: "./dist/static/main/tutor/5ff79084830f7856be83b3c4/index.html"
+Route "/main/referrals" rendered into file: "./dist/static/main/referrals/index.html"
+Route "/main/tutors" rendered into file: "./dist/static/main/tutors/index.html"
+Route "/main/referrals/management" rendered into file: "./dist/static/main/referrals/management/index.html"
+Route "/main/profile/edit" rendered into file: "./dist/static/main/profile/edit/index.html"
+Route "/main/dashboard" rendered into file: "./dist/static/main/dashboard/index.html"
+Route "/main/profile" rendered into file: "./dist/static/main/profile/index.html"
+Route "/main/account/calendar" rendered into file: "./dist/static/main/account/calendar/index.html"
+Route "/main/account/payments" rendered into file: "./dist/static/main/account/payments/index.html"
+Route "/main/account/transactions" rendered into file: "./dist/static/main/account/transactions/index.html"
+Route "/main/account/settings" rendered into file: "./dist/static/main/account/settings/index.html"
+Route "/main/account/lessons" rendered into file: "./dist/static/main/account/lessons/index.html"
+Route "/main/account" rendered into file: "./dist/static/main/account/index.html"
+Route "/main/affiliate" rendered into file: "./dist/static/main/affiliate/index.html"
+Route "/main/account/payment" rendered into file: "./dist/static/main/account/payment/index.html"
+Route "/main/account/files" rendered into file: "./dist/static/main/account/files/index.html"
+Route "/main/invites" rendered into file: "./dist/static/main/invites/index.html"
+Route "/main/privacy-policy" rendered into file: "./dist/static/main/privacy-policy/index.html"
+Route "/main/terms-of-use" rendered into file: "./dist/static/main/terms-of-use/index.html"
+Route "/main/tutor-payment-policy" rendered into file: "./dist/static/main/tutor-payment-policy/index.html"
+Route "/main/independent-tutor-agreement" rendered into file: "./dist/static/main/independent-tutor-agreement/index.html"
+Route "/main/cancellation-policy" rendered into file: "./dist/static/main/cancellation-policy/index.html"Route "/main" rendered into file: "./dist/static/main/index.html"
+
+Route "/start/login" rendered into file: "./dist/static/start/login/index.html"
+Route "/start/recover-password" rendered into file: "./dist/static/start/recover-password/index.html"
+Route "/start/change-password" rendered into file: "./dist/static/start/change-password/index.html"
+Route "/start/register" rendered into file: "./dist/static/start/register/index.html"
+Route "/start/register/affiliate" rendered into file: "./dist/static/start/register/affiliate/index.html"
+Route "/start" rendered into file: "./dist/static/start/index.html"
+using plugins from folder "./scully"
+Cleaned up ./dist/static folder.
+ ☺   new Angular build importedFinding all routes in application.traversing app for routesPull in data to create additional routes.No configuration for route "/admin/tutors/:tutor" found. SkippingNo configuration for route "/admin/tutors/pending/:tutor" found. SkippingNo configuration for route "/admin/students/:id" found. Skipping****************************************************************************************
+This is a development tool for Scully applications.
+You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************
+You are using "https://nextt.learnt.io" as server.
+      
+
+
+
+
+
+
+
+
+ The router plugin "tutorProfilesPlugin has thrown the below error,
+              while trying to render route "unknown"
+              Scully will exitError: read ECONNRESET
+
+using plugins from folder "./scully"
+Cleaned up ./dist/static folder.
+ ☺   new Angular build imported
+You are using "https://next.learnt.io" as server.
+      Pull in data to create additional routes.No configuration for route "/admin/tutors/:tutor" found. SkippingNo configuration for route "/admin/tutors/pending/:tutor" found. SkippingNo configuration for route "/admin/students/:id" found. Skipping****************************************************************************************
+This is a development tool for Scully applications.
+You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************traversing app for routesFinding all routes in application.
+
+
+
+
+
+
+
+ The router plugin "tutorProfilesPlugin has thrown the below error,
+              while trying to render route "unknown"
+              Scully will exitError: read ECONNRESET
+
+
+using plugins from folder "./scully"
+Cleaned up ./dist/static folder.
+ ☺   new Angular build importedFinding all routes in application.Pull in data to create additional routes.No configuration for route "/admin/tutors/:tutor" found. SkippingNo configuration for route "/admin/tutors/pending/:tutor" found. SkippingNo configuration for route "/admin/students/:id" found. Skipping****************************************************************************************
+This is a development tool for Scully applications.
+You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************traversing app for routes
+You are using "https://localhost" as server.
+      
+
+
+
+
+
+ The router plugin "tutorProfilesPlugin has thrown the below error,
+              while trying to render route "unknown"
+              Scully will exitError: read ECONNRESET
+
+
+
+
+using plugins from folder "./scully"
+Cleaned up ./dist/static folder.
+ ☺   new Angular build importedFinding all routes in application.Pull in data to create additional routes.No configuration for route "/admin/tutors/:tutor" found. Skipping
+You are using "https://localhost:4200" as server.
+      ****************************************************************************************
+This is a development tool for Scully applications.
+You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************No configuration for route "/admin/students/:id" found. SkippingNo configuration for route "/admin/tutors/pending/:tutor" found. Skippingtraversing app for routes
+
+
+
+
+
+ The router plugin "tutorProfilesPlugin has thrown the below error,
+              while trying to render route "unknown"
+              Scully will exitError: read ECONNRESET
+
+
+
+
+using plugins from folder "./scully"
+Cleaned up ./dist/static folder.
+ ☺   new Angular build importedFinding all routes in application.traversing app for routesPull in data to create additional routes.No configuration for route "/admin/tutors/:tutor" found. SkippingNo configuration for route "/admin/tutors/pending/:tutor" found. SkippingNo configuration for route "/admin/students/:id" found. Skipping****************************************************************************************
+This is a development tool for Scully applications.
+You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************
+You are using "https://next.learnt.io" as server.
+      
+
+
+
+
+
+
+
+
+No configuration for route "/main/import/:provider" found. SkippingNo configuration for route "/main/account/calendar/edit/:id" found. SkippingNo configuration for route "/main/account/calendar/cancel/:id" found. SkippingNo configuration for route "/start/promo/:code" found. SkippingNo configuration for route "/main/account/calendar/details/:id" found. SkippingRoute list created in files:
+  "./src/assets/scully-routes.json",
+  "/Users/luisperez/Documents/Upwork/Learnt/www/dist/static/assets/scully-routes.json",
+  "/Users/luisperez/Documents/Upwork/Learnt/www/dist/www/assets/scully-routes.json"
+No configuration for route "/main/account/calendar/details/:id/notes" found. Skipping
+
+
+
+
+
+
+Launching puppeteer with executablePath chromium-browser not found
+using plugins from folder "./scully"
+Cleaned up ./dist/static folder.
+ ☺   new Angular build importedtraversing app for routesFinding all routes in application.No configuration for route "/admin/tutors/:tutor" found. SkippingNo configuration for route "/admin/tutors/pending/:tutor" found. SkippingNo configuration for route "/admin/students/:id" found. Skipping****************************************************************************************
+This is a development tool for Scully applications.
+You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************
+You are using "https://localhost:4200" as server.
+      Pull in data to create additional routes.
+
+
+
+
+
+
+
+
+No configuration for route "/main/import/:provider" found. SkippingNo configuration for route "/main/account/calendar/cancel/:id" found. SkippingNo configuration for route "/start/promo/:code" found. SkippingRoute list created in files:
+  "./src/assets/scully-routes.json",
+  "/Users/luisperez/Documents/Upwork/Learnt/www/dist/static/assets/scully-routes.json",
+  "/Users/luisperez/Documents/Upwork/Learnt/www/dist/www/assets/scully-routes.json"
+No configuration for route "/main/account/calendar/details/:id" found. SkippingNo configuration for route "/main/account/calendar/details/:id/notes" found. SkippingNo configuration for route "/main/account/calendar/edit/:id" found. Skipping
+
+
+
+
+
+
+Launching puppeteer with executablePath /usr/local/bin/chromium
+Route "/privacy-policy" rendered into file: "./dist/static/privacy-policy/index.html"Route "/cancellation-policy" rendered into file: "./dist/static/cancellation-policy/index.html"
+Route "/terms-of-use" rendered into file: "./dist/static/terms-of-use/index.html"
+
+Route "" rendered into file: "./dist/static/index.html"
+Route "/tutor-payment-policy" rendered into file: "./dist/static/tutor-payment-policy/index.html"
+Route "/independent-tutor-agreement" rendered into file: "./dist/static/independent-tutor-agreement/index.html"
+Route "/admin" rendered into file: "./dist/static/admin/index.html"
+Route "/admin/tutors" rendered into file: "./dist/static/admin/tutors/index.html"
+Route "/admin/tutoring-sessions" rendered into file: "./dist/static/admin/tutoring-sessions/index.html"
+Route "/admin/footer-links" rendered into file: "./dist/static/admin/footer-links/index.html"
+Route "/admin/settings" rendered into file: "./dist/static/admin/settings/index.html"
+Route "/admin/pages" rendered into file: "./dist/static/admin/pages/index.html"
+Route "/admin/posts" rendered into file: "./dist/static/admin/posts/index.html"
+Route "/admin/reviews" rendered into file: "./dist/static/admin/reviews/index.html"
+Route "/admin/online" rendered into file: "./dist/static/admin/online/index.html"
+Route "/admin/students" rendered into file: "./dist/static/admin/students/index.html"
+Route "/admin/subjects" rendered into file: "./dist/static/admin/subjects/index.html"
+Route "/admin/metrics" rendered into file: "./dist/static/admin/metrics/index.html"
+Route "/admin/credits-summary" rendered into file: "./dist/static/admin/credits-summary/index.html"
+Route "/main/tutor/5fbb12c5830f786316cf0a7a" rendered into file: "./dist/static/main/tutor/5fbb12c5830f786316cf0a7a/index.html"Route "/main/tutor/5c92635bd0330e1fa6c1e9e4" rendered into file: "./dist/static/main/tutor/5c92635bd0330e1fa6c1e9e4/index.html"
+
+Route "/start/apply" rendered into file: "./dist/static/start/apply/index.html"
+Route "/main/tutor/5fbd93c7830f7871f124bbf7" rendered into file: "./dist/static/main/tutor/5fbd93c7830f7871f124bbf7/index.html"
+Route "/main/tutor/5fbda9ab830f787ba5307f0a" rendered into file: "./dist/static/main/tutor/5fbda9ab830f787ba5307f0a/index.html"
+Route "/main/tutor/5ff79084830f7856be83b3c4" rendered into file: "./dist/static/main/tutor/5ff79084830f7856be83b3c4/index.html"
+Route "/main/referrals" rendered into file: "./dist/static/main/referrals/index.html"
+Route "/main/tutors" rendered into file: "./dist/static/main/tutors/index.html"Route "/main/referrals/management" rendered into file: "./dist/static/main/referrals/management/index.html"
+
+Route "/main/profile/edit" rendered into file: "./dist/static/main/profile/edit/index.html"
+Route "/main/profile" rendered into file: "./dist/static/main/profile/index.html"
+Route "/main/dashboard" rendered into file: "./dist/static/main/dashboard/index.html"
+Route "/main/account/calendar" rendered into file: "./dist/static/main/account/calendar/index.html"
+Route "/main/account/payments" rendered into file: "./dist/static/main/account/payments/index.html"Route "/main/account/transactions" rendered into file: "./dist/static/main/account/transactions/index.html"
+
+Route "/main/account/settings" rendered into file: "./dist/static/main/account/settings/index.html"Route "/main/account/lessons" rendered into file: "./dist/static/main/account/lessons/index.html"
+
+Route "/main/account/files" rendered into file: "./dist/static/main/account/files/index.html"
+Route "/main/account/payment" rendered into file: "./dist/static/main/account/payment/index.html"
+Route "/main/account" rendered into file: "./dist/static/main/account/index.html"
+Route "/main/affiliate" rendered into file: "./dist/static/main/affiliate/index.html"
+Route "/main/invites" rendered into file: "./dist/static/main/invites/index.html"
+Route "/main/privacy-policy" rendered into file: "./dist/static/main/privacy-policy/index.html"
+Route "/main/terms-of-use" rendered into file: "./dist/static/main/terms-of-use/index.html"Route "/main/tutor-payment-policy" rendered into file: "./dist/static/main/tutor-payment-policy/index.html"
+
+Route "/main/independent-tutor-agreement" rendered into file: "./dist/static/main/independent-tutor-agreement/index.html"
+Route "/start/login" rendered into file: "./dist/static/start/login/index.html"
+Route "/main/cancellation-policy" rendered into file: "./dist/static/main/cancellation-policy/index.html"
+Route "/main" rendered into file: "./dist/static/main/index.html"
+Route "/start/recover-password" rendered into file: "./dist/static/start/recover-password/index.html"
+Route "/start/change-password" rendered into file: "./dist/static/start/change-password/index.html"
+Route "/start/register/welcome" rendered into file: "./dist/static/start/register/welcome/index.html"Route "/start/register/affiliate" rendered into file: "./dist/static/start/register/affiliate/index.html"Route "/start" rendered into file: "./dist/static/start/index.html"
+
+
+using plugins from folder "./scully"
