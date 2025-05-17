@@ -56,9 +56,9 @@ export class ClassroomService {
                 this._dataConnections.push(conn);
             });
         }
-        else {
-            console.error('Unable to establish peer connection');
-        }
+        // else {
+        //     console.error('Unable to establish peer connection');
+        // }
     }
 
     broadcastToPeers(data: any): void {
